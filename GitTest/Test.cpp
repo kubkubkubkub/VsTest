@@ -4,6 +4,7 @@
 
 Test::Test()
 {
+	printf("Test constructor \n");
 }
 
 
