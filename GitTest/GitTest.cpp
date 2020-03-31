@@ -13,6 +13,7 @@ int main()
 	printf("Git Test \n");
 	printf("I changed from GitHub \n");
 	printf("Second edit from GitHub \n");
+	printf("First edit from VS \n");
 
     return 0;
 }
