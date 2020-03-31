@@ -11,6 +11,7 @@ int main()
 	atexit([] { system("PAUSE"); });
 
 	printf("Git Test \n");
+	printf("I changed from GitHub \n");
 
     return 0;
 }
