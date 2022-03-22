@@ -2,7 +2,8 @@
 class Test
 {
 public:
-	Test();
+	Test(int a);
+	Test();	
 	~Test();
 };
 
